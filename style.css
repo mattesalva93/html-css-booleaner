@@ -3,8 +3,46 @@
     margin-top: 2%;
     margin-bottom: 0.3%;
 }
+
 header{
     background-image: url(img/pattern.png);
     background-color: #0390fc;
     background-size: 20%;
 }
+
+main{
+    margin-left: 0.4%;
+}
+
+h1{
+    font-size: 100px;
+    margin-top: 1%;
+    margin-bottom: 0.5%;
+    line-height: 85px;
+}
+
+#titolo div{
+    color: grey;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 1%;
+}
+
+div #autore{
+    color: #0390fc;
+}
+
+div #data {
+    font-weight: normal;
+    font-size: 15px;
+}
+
+#tim{
+    width: 55%;
+    height: 800px;
+    
+}
+
+#tim2{
+    width: 43%;
+    height: 800px;
