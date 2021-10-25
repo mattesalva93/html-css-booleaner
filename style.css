@@ -48,11 +48,15 @@ div #data {
     height: 800px;
 }
 
-#articolo{
+p{
     font-size: 20px;
 }
 
-#articolo span {
+ul{
+    font-size: 20px;
+}
+
+p span {
     background-color: yellow;
 }
 
@@ -74,4 +78,10 @@ th{
 
 #trpari {
     background-color: lightblue;
+}
+
+footer p {
+    color: grey;
+    font-weight: bold;
+    margin-top: 2%;
 }
