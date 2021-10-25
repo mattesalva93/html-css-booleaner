@@ -85,3 +85,27 @@ footer p {
     font-weight: bold;
     margin-top: 2%;
 }
+
+#link1 {
+    background-image: url(img/monitor.jpg);
+    width: 300px;
+    height: 250px;
+    background-repeat: no-repeat;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+footer div span {
+    margin-left: 8%;
+}
+
+#link2 {
+    background-image: url(img/graph.jpg);
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
