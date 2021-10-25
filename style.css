@@ -46,3 +46,12 @@ div #data {
 #tim2{
     width: 43%;
     height: 800px;
+}
+
+#articolo{
+    font-size: 20px;
+}
+
+#articolo span {
+    background-color: yellow;
+}
