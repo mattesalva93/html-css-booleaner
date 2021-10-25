@@ -1,0 +1,119 @@
+#blogo {
+    width: 10%;
+    margin-top: 2%;
+    margin-bottom: 0.3%;
+}
+
+header{
+    background-image: url(img/pattern.png);
+    background-color: #0390fc;
+    background-size: 20%;
+}
+
+h1{
+    font-size: 100px;
+    margin-top: 1%;
+    margin-bottom: 0.5%;
+    line-height: 90px;
+}
+
+#titolo div{
+    color: grey;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 1%;
+}
+
+div #autore{
+    color: #0390fc;
+}
+
+div #data {
+    font-weight: normal;
+    font-size: 18px;
+}
+
+
+#tim{
+    width: 50%;
+    height: 700px;
+}
+
+#tim2{
+    width: 45%;
+    height: 700px;
+}
+
+p{
+    font-size: 20px;
+}
+
+ul{
+    font-size: 20px;
+}
+
+p span {
+    background-color: yellow;
+}
+
+table {
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+
+th{
+    background-color:#0390fc;
+    color: white;
+}
+
+#tdlungo{
+    width: 40%;
+}
+
+#trpari {
+    background-color: lightblue;
+}
+
+footer p {
+    color: grey;
+    font-weight: bold;
+    margin-top: 2%;
+}
+
+#link1 {
+    background-image: url(img/monitor.jpg);
+    width: 300px;
+    height: 250px;
+    background-repeat: no-repeat;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+footer div span {
+    margin-left: 8%;
+}
+
+#link2 {
+    background-image: url(img/graph.jpg);
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+main {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+footer {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
