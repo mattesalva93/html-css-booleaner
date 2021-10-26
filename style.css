@@ -58,6 +58,8 @@ p{
 
 ul{
     font-size: 20px;
+    margin: 0;
+    padding: 20px;
 }
 
 p span {
